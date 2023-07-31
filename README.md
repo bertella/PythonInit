@@ -1,6 +1,6 @@
-# AreaCirc
+<H1> Ejercicios Basicos en python </h1>
 Ejercicio inicial  para aprender los conceptos basicos de la sintaxis
 
-<H2>Ejercicio:
-Calculadora de área de un círculo
- Adivina el numero 
+
+<b>Calculadora de área de un círculo
+<b>Adivina el numero 
